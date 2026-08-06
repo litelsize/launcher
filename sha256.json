@@ -4,21 +4,38 @@
       "name": "Newtonsoft.Json2.dll",
       "path": "BepInEx/plugins/Newtonsoft.Json2.dll",
       "hash": "CD62578B0965FD0B185104DE4BA777007C2BFDB1C97E68A0BACBF52BC5A1E77A",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "type": "plugin"
     },
     {
       "name": "Newtonsoft.Json.dll",
       "path": "BepInEx/plugins/Newtonsoft.Json.dll",
       "hash": "8C1DD5C184B4E2E7EAD06971FF3EBCB46783BE972292D1DEB1061744369B4D80",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "type": "plugin"
     },
     {
       "name": "DiscordRPC.dll",
       "path": "BepInEx/plugins/DiscordRPC.dll",
       "hash": "4DD4D48E0681604E3A7A72B6EAE42173421D0B806B1AF8FA03B45D9999978499",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "type": "plugin"
+    },
+    {
+      "name": "start.png",
+      "path": "RustClient_Data/StreamingAssets/start.png",
+      "hash": "CED2396B501A417CF39E2249D673E328EBC22CA4DBD7181E03055896C10EFA5F",
+      "version": "1.0.0",
+      "type": "image"
+    },
+    {
+      "name": "loading.png",
+      "path": "RustClient_Data/StreamingAssets/loading.png",
+      "hash": "CED2396B501A417CF39E2249D673E328EBC22CA4DBD7181E03055896C10EFA5F",
+      "version": "1.0.0",
+      "type": "image"
     }
   ],
-  "lastUpdated": "2026-08-08T00:00:00Z",
-  "totalFiles": 3
+  "lastUpdated": "2026-08-06T00:00:00Z",
+  "totalFiles": 5
 }
