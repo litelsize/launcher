@@ -1,1 +1,24 @@
-
+{
+  "files": [
+    {
+      "name": "Newtonsoft.Json2.dll",
+      "path": "BepInEx/plugins/Newtonsoft.Json2.dll",
+      "hash": "9A5DE4E5DDCF29F176ADF56A242076CB",
+      "version": "1.0.0"
+    },
+    {
+      "name": "Newtonsoft.Json.dll",
+      "path": "BepInEx/plugins/Newtonsoft.Json.dll",
+      "hash": "BBE7BAB7D62FFF428929222396154324",
+      "version": "1.0.0"
+    },
+    {
+      "name": "DiscordRPC.dll",
+      "path": "BepInEx/plugins/DiscordRPC.dll",
+      "hash": "C6115A08C8E50DAC0194FB98D3EDC9D2",
+      "version": "1.0.0"
+    }
+  ],
+  "lastUpdated": "2026-08-06T00:00:00Z",
+  "totalFiles": 3
+}
