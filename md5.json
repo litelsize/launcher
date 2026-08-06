@@ -24,14 +24,14 @@
     {
       "name": "start.png",
       "path": "RustClient_Data/StreamingAssets/start.png",
-      "hash": "",
+      "hash": "B937EB38A4FA0A7382CB12C7D7D090C8",
       "version": "1.0.0",
       "type": "image"
     },
     {
       "name": "loading.png",
       "path": "RustClient_Data/StreamingAssets/loading.png",
-      "hash": "",
+      "hash": "B937EB38A4FA0A7382CB12C7D7D090C8",
       "version": "1.0.0",
       "type": "image"
     }
